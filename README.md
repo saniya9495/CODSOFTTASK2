@@ -1,3 +1,2 @@
-# CODSOFT
-TASK2
+# CODSOFTTASK2
 Calculator using python
